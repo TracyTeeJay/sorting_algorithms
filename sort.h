@@ -44,4 +44,4 @@ void quick_sort(int *array, size_t size);
 
 
 
-#endif /*SORT_H */
+#endif /* SORT_H */
