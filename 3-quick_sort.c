@@ -77,7 +77,7 @@ void lomuto_sort(int *array, size_t size, int left, int right)
 }
 
 /**
- * quick_sort -function to sort integers in ascending order using quicksort algorithm
+ * quick_sort -function to sort in ascending order using quicksort algorithm
  * @array: integer array
  * @size: array size
  * Description: Uses the Lomuto partition scheme
